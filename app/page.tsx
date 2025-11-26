@@ -72,12 +72,6 @@ export default function Home() {
               twitch
             </a>
             <a
-              href="https://linktr.ee/wavesmoddedshiz"
-              className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
-            >
-              waves modded
-            </a>
-            <a
               href="https://x.com/gio8ll"
               className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
             >
