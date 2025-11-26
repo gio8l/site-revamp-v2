@@ -48,37 +48,19 @@ export default function Home() {
               discord
             </a>
             <a
-              href="/funday"
-              className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
-            >
-              fun day
-            </a>
-            <a
               href="https://github.com/gio8l"
               className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
             >
               github
             </a>
             <a
-              href="https://giomodz.carrd.co"
-              className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
-            >
-              giomodz
-            </a>
-            <a
-              href="https://instagram.com/vrhd_"
+              href="https://instagram.com/gio8l_"
               className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
             >
               instagram
             </a>
             <a
-              href="https://soundcloud.com/gio8l"
-              className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
-            >
-              soundcloud
-            </a>
-            <a
-              href="https://tiktok.com/@.vrhd"
+              href="https://tiktok.com/@gio8l"
               className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
             >
               tiktok
@@ -102,7 +84,7 @@ export default function Home() {
               x
             </a>
             <a
-              href="https://youtube.com/@vrhdx"
+              href="https://youtube.com/@gio8l.online"
               className="bg-gray-700/50 hover:bg-gray-600/60 border border-gray-600/40 hover:border-gray-500/60 text-white py-3 rounded-xl text-xs font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg backdrop-blur-sm text-center"
             >
               youtube
@@ -110,7 +92,8 @@ export default function Home() {
           </div>
 
           <div className="text-center pt-4 border-t border-gray-600/30">
-            <p className="text-gray-400 text-sm font-light">for business inquiries: gio@gio8l.lol</p>
+            <p className="text-gray-400 text-sm font-light">for business inquiries: gio@gio8l.online</p>
+            <p className="text-gray-400 text-sm font-light">rip gio8l.lol</p>
           </div>
         </div>
       </Card>
